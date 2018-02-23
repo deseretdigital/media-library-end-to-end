@@ -6,6 +6,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-stage-0": "^6.24.1",
     "chalk": "^2.3.0",
+    "eslint-plugin-react": "^7.7.0",
     "hippie": "^0.5.1",
     "promptly": "^3.0.3"
   },
