@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chalk": "^2.3.0",
+    "hippie": "^0.5.1",
+    "promptly": "^3.0.3"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib babel-node ./lib/index.js"
+  }
+}
