@@ -1,25 +1,8 @@
 {
     "parser": "babel-eslint",
     "env": {
-        "browser": true,
-        "jquery": false
+        "browser": false
     },
-    "rules": {
-        "strict": 0,
-        "semi": [1, "always"],
-        "curly": 0,
-        "no-dupe-args": 2,
-        "no-dupe-keys": 2,
-        "no-extra-semi": 1,
-        "arrow-spacing": 2,
-        "arrow-parens": [2, "always"],
-        "dot-notation": 2,
-        "use-isnan": 1,
-        "no-obj-calls": 2,
-        "no-void": 1,
-        "no-invalid-this": 0
-    },
-    "settings": {
-        "propWrapperFunctions": ["forbidExtraProps"]
-    }
+    "plugins": ["prettier"],
+    "extends": ["plugin:prettier/recommended"]
 }
