@@ -12,6 +12,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.7.0",
     "hippie": "^0.5.1",
+    "lint-staged": "^7.0.0",
     "prettier": "^1.10.2",
     "promptly": "^3.0.3"
   },
