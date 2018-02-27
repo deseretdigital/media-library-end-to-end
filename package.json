@@ -26,5 +26,8 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "devDependencies": {
+    "lodash.get": "^4.4.2"
   }
 }
