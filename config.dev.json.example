@@ -4,11 +4,14 @@
     "keys": {
         "hive": "",
         "dc": "",
+        "utah": "",
         "ksl": ""
     },
     "varnish": [
         "http://ddmmedia-varnish01.deseretdigital.com",
         "http://ddmmedia-varnish02.deseretdigital.com",
         "http://ddmmedia-varnish03.deseretdigital.com"
-    ]
+    ],
+    "stage": "http://ddmmedia-stage.deseretdigital.com",
+    "stagevarnish": "http://ddmmedia-varnish03.deseretdigital.com"
 }
