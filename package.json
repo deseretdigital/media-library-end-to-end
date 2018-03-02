@@ -13,7 +13,7 @@
     "eslint-plugin-react": "^7.7.0",
     "hippie": "^0.5.1",
     "lint-staged": "^7.0.0",
-    "prettier": "^1.10.2",
+    "prettier": "^1.11.0",
     "promptly": "^3.0.3"
   },
   "scripts": {
@@ -28,6 +28,10 @@
     ]
   },
   "devDependencies": {
-    "lodash.get": "^4.4.2"
+    "lodash.assignin": "^4.2.0",
+    "lodash.find": "^4.6.0",
+    "lodash.first": "^3.0.0",
+    "lodash.get": "^4.4.2",
+    "prettierrc": "^0.0.0-5"
   }
 }
