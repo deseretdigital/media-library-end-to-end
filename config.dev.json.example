@@ -1,12 +1,19 @@
 {
     "base": "http://media-stage.deseretdigital.com",
     "key": "",
+    "clientId": "",
     "keys": {
         "hive": "",
         "dc": "",
         "utah": "",
         "ksl": ""
     },
+    "cIds": {
+        "hive": "",
+        "dc": "",
+        "utah": "",
+        "ksl": ""
+    }
     "varnish": [
         "http://ddmmedia-varnish01.deseretdigital.com",
         "http://ddmmedia-varnish02.deseretdigital.com",
