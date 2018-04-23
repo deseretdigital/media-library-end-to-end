@@ -1,0 +1,17 @@
+{
+  "name": "mmontgomery/media-library-end-to-end",
+  "require": {
+    "phpunit/phpunit": "^7.1",
+    "guzzlehttp/guzzle": "^6.3",
+    "orbitale/imagemagick-php": "^2.0"
+  },
+  "authors": [
+    {
+      "name": "Matt Montgomery",
+      "email": "montgomery.matt@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "phpunit"
+  }
+}
